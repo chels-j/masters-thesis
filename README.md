@@ -1,5 +1,7 @@
 #  Graduation Thesis: M.Sc. Data Science, Tilburg University
 
+![PosterLayout_JPEG](https://github.com/user-attachments/assets/57335fec-9a21-4957-b7b2-9b18b2323f58)
+
 Here you can read my graduation thesis for the M.Sc. Data Science & Society program at Tilburg University, which I completed between February 2025 - January 2026. 
 
 For my thesis, I built a <b> semi-supervised machine learning pipeline to classify manufacturing error messages by root cause category </b> for a pharmaceutical manufacturing company, Amgen Breda.<br>
